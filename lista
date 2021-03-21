@@ -1,12 +1,6 @@
 {
   "name": "AVI",
   "author": "AVI",
-  "url": "https://raw.githubusercontent.com/jartodeto/Avi/main/lista.m3u",
-  "down": "https://raw.githubusercontent.com/jartodeto/Avi/main/lista.m3u",
-  "epg": "",
-  "image": "https://dl.memuplay.com/new_market/img/com.phiamurphin.tdt.espana.icon.2019-06-15-11-13-35.png",
-  "telegram": "",
-  "info": "Playlist",
   "groups": [
     {
       "name": "Nacionales",
